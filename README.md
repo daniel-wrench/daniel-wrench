@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @daniel-wrench
-- 👀 I’m interested in applying statistical and machine learning methods to interesting problems. My favourite topics are space exploration (especially of the Moon), global development, and New Zealand bird conservation.
-- 🌱 I am currently pursuing a PhD, applying data science techniques to the problem of data gaps in time series of the solar wind.
-- 💞️ I’m looking to collaborate on any projects related to my interests.
-- 📫 How to reach me: email me at spanner199@gmail.com
+G'day! 👋 I'm Daniel and I'm a data scientist interested in:
+
+- 🤖 AI governance
+- 🚀 Space policy
+- 🌍 Effective altruism
+
+Please get in touch if we could work together on any of these topics! You can reach me at daniel.wrench@vuw.ac.nz
+
+- 📚 [Publications](https://orcid.org/0000-0002-7463-3818)
+- 💻 [Code](https://github.com/daniel-wrench)
 
 <!---
 daniel-wrench/daniel-wrench is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
